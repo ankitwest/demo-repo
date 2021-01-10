@@ -1,0 +1,111 @@
+//========================================================
+/* 
+	It shall not end until my death. 
+  I shall take no LoVe.
+    I shall wear no crowns and win no glory.
+		I am the sword in the darkness.
+ I am the shield that guards the realms of men. 
+	I pledge my life and honor to the GoD of Heaven, 
+	 for this night and all the nights to come.
+ 
+//♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂    
+	  Even if we can't be together in the end,
+		I'm glad that you were a part of my life.
+//♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂
+ 
+//=========================================================
+*/ 
+/* Simplicity and Goodness */
+
+#include<iostream>
+#include<algorithm>
+#include <bits/stdc++.h>
+using namespace std;
+
+#define scn(n) scanf("%d", &n)
+#define lscn(n) scanf("%lld", &n)
+#define pri(n) printf("%d ", (int)(n))
+#define prin(n) printf("%d\n", (int)(n))
+#define lpri(n) printf("%lld ", n)
+#define lprin(n) printf("%lld\n", n)
+
+#define rep(i, a, b) for(int i=(int)(a); i<(int)(b); i++)
+#define tc int tt; scn(tt); while(tt --)
+#define lcm(m,n)             (m*n)/__gcd(m,n)
+
+const int inf = INT_MAX;
+const int ninf = INT_MIN;
+const ll mod =1e9+7;
+const int N = 2e5+2; 
+
+#define pb push_back
+#define mp make_pair
+#define F first
+#define S second
+#define all(x)     x.begin(),x.end()
+
+
+#define en  "\n"
+#define LN cout<<"\n";
+#define r0 return 0;
+
+#define M                    1000000007
+#define pi                   3.14159265358979323846
+#define ll                   long long
+#define lldd                 long double
+#define ld                   double
+#define ull                  unsigned long long
+
+
+#define pii                  pair<int, int>
+#define pll                  pair<ll, ll>
+#define vi                   vector<int>
+#define vl                   vector<ll>
+#define vpi                  vector<pii>
+#define vpl                  vector<pll>
+
+ios_base::sync_with_stdio(false);
+cin.tie(NULL);
+
+
+//s1=s1.erase(0,1);
+//printf("%s","Second");
+
+int main()
+{
+    int n;
+    scn(n);
+ 
+    vector<ll> a(n), b(n, 0);
+ 
+    rep(i, 0, n) {
+        lscn(a[i]);
+    }
+ 
+   int n;
+    scn(n);
+ 
+    int a[n];
+    rep(i, 0, n)
+    scn(a[i]);
+  prin(mn);
+
+    tc
+    {        ll n;
+        lscn(n);
+        ll moves = 0;
+        int x;
+        scn(x);
+}
+
+
+
+
+
+
+
+ashish
+kimo227
+decon_harsh python 
+its_me_returns
+
